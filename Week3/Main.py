@@ -33,7 +33,6 @@ def generate_students(names, genders, courses, images, n):
 
 def read_students(file):
     student_list = []
-    s_name = ""
     data_sheet = []
     first = True
     with open(file, 'r'):
@@ -41,16 +40,16 @@ def read_students(file):
         csv_list = list(csv_reader)
         for row in csv_list:
             if(s_name!=row[0]):
-                #if(first != True):
-                    #student_list.append(Student(s_name, row[3], data_sheet, row[7])) 
+                if(first != True):
+                    student_list.append(Student(s_name, s_gender, data_sheet, s_image)) 
                 s_name = row[0]
+                s_gender = row[3]
+                s_image = row[7]
                 data_sheet = []
                 first = False
             print(row)
-            #data_sheet.append(Course(row[1], row[5], row[2], row[4], row[6]))
+            data_sheet.append(Course(row[1], row[5], row[2], row[4], row[6]))
     return student_list
-
-read_students('students.csv')
 
 
             

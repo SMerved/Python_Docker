@@ -1,0 +1,491 @@
+OMRÅDE,TID,CIVILSTAND,INDHOLD
+København,2020K1,I alt,632340
+København,2020K1,Ugift,412512
+København,2020K1,Gift/separeret,150458
+København,2020K1,Enke/enkemand,14630
+København,2020K1,Fraskilt,54740
+Frederiksberg,2020K1,I alt,104305
+Frederiksberg,2020K1,Ugift,60781
+Frederiksberg,2020K1,Gift/separeret,29185
+Frederiksberg,2020K1,Enke/enkemand,4220
+Frederiksberg,2020K1,Fraskilt,10119
+Dragør,2020K1,I alt,14494
+Dragør,2020K1,Ugift,5844
+Dragør,2020K1,Gift/separeret,6546
+Dragør,2020K1,Enke/enkemand,893
+Dragør,2020K1,Fraskilt,1211
+Tårnby,2020K1,I alt,42989
+Tårnby,2020K1,Ugift,19947
+Tårnby,2020K1,Gift/separeret,16660
+Tårnby,2020K1,Enke/enkemand,2232
+Tårnby,2020K1,Fraskilt,4150
+Albertslund,2020K1,I alt,27731
+Albertslund,2020K1,Ugift,13795
+Albertslund,2020K1,Gift/separeret,10054
+Albertslund,2020K1,Enke/enkemand,1156
+Albertslund,2020K1,Fraskilt,2726
+Ballerup,2020K1,I alt,48602
+Ballerup,2020K1,Ugift,22371
+Ballerup,2020K1,Gift/separeret,18441
+Ballerup,2020K1,Enke/enkemand,2762
+Ballerup,2020K1,Fraskilt,5028
+Brøndby,2020K1,I alt,35090
+Brøndby,2020K1,Ugift,16245
+Brøndby,2020K1,Gift/separeret,13231
+Brøndby,2020K1,Enke/enkemand,1940
+Brøndby,2020K1,Fraskilt,3674
+Gentofte,2020K1,I alt,74830
+Gentofte,2020K1,Ugift,35130
+Gentofte,2020K1,Gift/separeret,28979
+Gentofte,2020K1,Enke/enkemand,3406
+Gentofte,2020K1,Fraskilt,7315
+Gladsaxe,2020K1,I alt,69262
+Gladsaxe,2020K1,Ugift,34731
+Gladsaxe,2020K1,Gift/separeret,24735
+Gladsaxe,2020K1,Enke/enkemand,3008
+Gladsaxe,2020K1,Fraskilt,6788
+Glostrup,2020K1,I alt,23128
+Glostrup,2020K1,Ugift,11193
+Glostrup,2020K1,Gift/separeret,8339
+Glostrup,2020K1,Enke/enkemand,1184
+Glostrup,2020K1,Fraskilt,2412
+Herlev,2020K1,I alt,28953
+Herlev,2020K1,Ugift,13767
+Herlev,2020K1,Gift/separeret,10561
+Herlev,2020K1,Enke/enkemand,1570
+Herlev,2020K1,Fraskilt,3055
+Hvidovre,2020K1,I alt,53527
+Hvidovre,2020K1,Ugift,26533
+Hvidovre,2020K1,Gift/separeret,19341
+Hvidovre,2020K1,Enke/enkemand,2487
+Hvidovre,2020K1,Fraskilt,5166
+Høje-Taastrup,2020K1,I alt,50759
+Høje-Taastrup,2020K1,Ugift,23532
+Høje-Taastrup,2020K1,Gift/separeret,20224
+Høje-Taastrup,2020K1,Enke/enkemand,2279
+Høje-Taastrup,2020K1,Fraskilt,4724
+Ishøj,2020K1,I alt,22989
+Ishøj,2020K1,Ugift,10808
+Ishøj,2020K1,Gift/separeret,8931
+Ishøj,2020K1,Enke/enkemand,960
+Ishøj,2020K1,Fraskilt,2290
+Lyngby-Taarbæk,2020K1,I alt,56214
+Lyngby-Taarbæk,2020K1,Ugift,27810
+Lyngby-Taarbæk,2020K1,Gift/separeret,20344
+Lyngby-Taarbæk,2020K1,Enke/enkemand,2778
+Lyngby-Taarbæk,2020K1,Fraskilt,5282
+Rødovre,2020K1,I alt,40652
+Rødovre,2020K1,Ugift,20055
+Rødovre,2020K1,Gift/separeret,14268
+Rødovre,2020K1,Enke/enkemand,2051
+Rødovre,2020K1,Fraskilt,4278
+Vallensbæk,2020K1,I alt,16633
+Vallensbæk,2020K1,Ugift,7354
+Vallensbæk,2020K1,Gift/separeret,7290
+Vallensbæk,2020K1,Enke/enkemand,712
+Vallensbæk,2020K1,Fraskilt,1277
+Allerød,2020K1,I alt,25633
+Allerød,2020K1,Ugift,10586
+Allerød,2020K1,Gift/separeret,11843
+Allerød,2020K1,Enke/enkemand,1220
+Allerød,2020K1,Fraskilt,1984
+Egedal,2020K1,I alt,43354
+Egedal,2020K1,Ugift,18274
+Egedal,2020K1,Gift/separeret,19789
+Egedal,2020K1,Enke/enkemand,1924
+Egedal,2020K1,Fraskilt,3367
+Fredensborg,2020K1,I alt,40865
+Fredensborg,2020K1,Ugift,17135
+Fredensborg,2020K1,Gift/separeret,17574
+Fredensborg,2020K1,Enke/enkemand,1974
+Fredensborg,2020K1,Fraskilt,4182
+Frederikssund,2020K1,I alt,45223
+Frederikssund,2020K1,Ugift,18530
+Frederikssund,2020K1,Gift/separeret,19028
+Frederikssund,2020K1,Enke/enkemand,2766
+Frederikssund,2020K1,Fraskilt,4899
+Furesø,2020K1,I alt,40965
+Furesø,2020K1,Ugift,17443
+Furesø,2020K1,Gift/separeret,17856
+Furesø,2020K1,Enke/enkemand,2124
+Furesø,2020K1,Fraskilt,3542
+Gribskov,2020K1,I alt,41048
+Gribskov,2020K1,Ugift,15993
+Gribskov,2020K1,Gift/separeret,17823
+Gribskov,2020K1,Enke/enkemand,2517
+Gribskov,2020K1,Fraskilt,4715
+Halsnæs,2020K1,I alt,31384
+Halsnæs,2020K1,Ugift,12656
+Halsnæs,2020K1,Gift/separeret,13029
+Halsnæs,2020K1,Enke/enkemand,1981
+Halsnæs,2020K1,Fraskilt,3718
+Helsingør,2020K1,I alt,62695
+Helsingør,2020K1,Ugift,27077
+Helsingør,2020K1,Gift/separeret,24435
+Helsingør,2020K1,Enke/enkemand,3539
+Helsingør,2020K1,Fraskilt,7644
+Hillerød,2020K1,I alt,51183
+Hillerød,2020K1,Ugift,23306
+Hillerød,2020K1,Gift/separeret,20681
+Hillerød,2020K1,Enke/enkemand,2423
+Hillerød,2020K1,Fraskilt,4773
+Hørsholm,2020K1,I alt,24864
+Hørsholm,2020K1,Ugift,9677
+Hørsholm,2020K1,Gift/separeret,10786
+Hørsholm,2020K1,Enke/enkemand,1664
+Hørsholm,2020K1,Fraskilt,2737
+Rudersdal,2020K1,I alt,56728
+Rudersdal,2020K1,Ugift,24690
+Rudersdal,2020K1,Gift/separeret,23679
+Rudersdal,2020K1,Enke/enkemand,3222
+Rudersdal,2020K1,Fraskilt,5137
+Christiansø,2020K1,I alt,84
+Christiansø,2020K1,Ugift,31
+Christiansø,2020K1,Gift/separeret,41
+Christiansø,2020K1,Enke/enkemand,6
+Christiansø,2020K1,Fraskilt,6
+Greve,2020K1,I alt,50558
+Greve,2020K1,Ugift,21016
+Greve,2020K1,Gift/separeret,22162
+Greve,2020K1,Enke/enkemand,2588
+Greve,2020K1,Fraskilt,4792
+Køge,2020K1,I alt,60979
+Køge,2020K1,Ugift,27189
+Køge,2020K1,Gift/separeret,24448
+Køge,2020K1,Enke/enkemand,3096
+Køge,2020K1,Fraskilt,6246
+Lejre,2020K1,I alt,27996
+Lejre,2020K1,Ugift,11553
+Lejre,2020K1,Gift/separeret,12554
+Lejre,2020K1,Enke/enkemand,1437
+Lejre,2020K1,Fraskilt,2452
+Roskilde,2020K1,I alt,87914
+Roskilde,2020K1,Ugift,41111
+Roskilde,2020K1,Gift/separeret,34221
+Roskilde,2020K1,Enke/enkemand,4229
+Roskilde,2020K1,Fraskilt,8353
+Solrød,2020K1,I alt,23255
+Solrød,2020K1,Ugift,9955
+Solrød,2020K1,Gift/separeret,10209
+Solrød,2020K1,Enke/enkemand,1044
+Solrød,2020K1,Fraskilt,2047
+Faxe,2020K1,I alt,36576
+Faxe,2020K1,Ugift,15575
+Faxe,2020K1,Gift/separeret,14962
+Faxe,2020K1,Enke/enkemand,2059
+Faxe,2020K1,Fraskilt,3980
+Guldborgsund,2020K1,I alt,60722
+Guldborgsund,2020K1,Ugift,25908
+Guldborgsund,2020K1,Gift/separeret,23096
+Guldborgsund,2020K1,Enke/enkemand,4356
+Guldborgsund,2020K1,Fraskilt,7362
+Holbæk,2020K1,I alt,71541
+Holbæk,2020K1,Ugift,32235
+Holbæk,2020K1,Gift/separeret,27871
+Holbæk,2020K1,Enke/enkemand,3836
+Holbæk,2020K1,Fraskilt,7599
+Kalundborg,2020K1,I alt,48436
+Kalundborg,2020K1,Ugift,21163
+Kalundborg,2020K1,Gift/separeret,18555
+Kalundborg,2020K1,Enke/enkemand,3063
+Kalundborg,2020K1,Fraskilt,5655
+Lolland,2020K1,I alt,41105
+Lolland,2020K1,Ugift,17132
+Lolland,2020K1,Gift/separeret,15497
+Lolland,2020K1,Enke/enkemand,3343
+Lolland,2020K1,Fraskilt,5133
+Næstved,2020K1,I alt,83143
+Næstved,2020K1,Ugift,38119
+Næstved,2020K1,Gift/separeret,30996
+Næstved,2020K1,Enke/enkemand,4644
+Næstved,2020K1,Fraskilt,9384
+Odsherred,2020K1,I alt,32957
+Odsherred,2020K1,Ugift,13011
+Odsherred,2020K1,Gift/separeret,13478
+Odsherred,2020K1,Enke/enkemand,2424
+Odsherred,2020K1,Fraskilt,4044
+Ringsted,2020K1,I alt,34852
+Ringsted,2020K1,Ugift,16052
+Ringsted,2020K1,Gift/separeret,13618
+Ringsted,2020K1,Enke/enkemand,1694
+Ringsted,2020K1,Fraskilt,3488
+Slagelse,2020K1,I alt,79073
+Slagelse,2020K1,Ugift,37269
+Slagelse,2020K1,Gift/separeret,28596
+Slagelse,2020K1,Enke/enkemand,4579
+Slagelse,2020K1,Fraskilt,8629
+Sorø,2020K1,I alt,29881
+Sorø,2020K1,Ugift,13232
+Sorø,2020K1,Gift/separeret,11739
+Sorø,2020K1,Enke/enkemand,1677
+Sorø,2020K1,Fraskilt,3233
+Stevns,2020K1,I alt,22805
+Stevns,2020K1,Ugift,9085
+Stevns,2020K1,Gift/separeret,9943
+Stevns,2020K1,Enke/enkemand,1431
+Stevns,2020K1,Fraskilt,2346
+Vordingborg,2020K1,I alt,45566
+Vordingborg,2020K1,Ugift,19110
+Vordingborg,2020K1,Gift/separeret,17689
+Vordingborg,2020K1,Enke/enkemand,3200
+Vordingborg,2020K1,Fraskilt,5567
+Assens,2020K1,I alt,40965
+Assens,2020K1,Ugift,17711
+Assens,2020K1,Gift/separeret,16847
+Assens,2020K1,Enke/enkemand,2392
+Assens,2020K1,Fraskilt,4015
+Faaborg-Midtfyn,2020K1,I alt,51556
+Faaborg-Midtfyn,2020K1,Ugift,22004
+Faaborg-Midtfyn,2020K1,Gift/separeret,21410
+Faaborg-Midtfyn,2020K1,Enke/enkemand,3178
+Faaborg-Midtfyn,2020K1,Fraskilt,4964
+Kerteminde,2020K1,I alt,23812
+Kerteminde,2020K1,Ugift,9789
+Kerteminde,2020K1,Gift/separeret,10101
+Kerteminde,2020K1,Enke/enkemand,1610
+Kerteminde,2020K1,Fraskilt,2312
+Langeland,2020K1,I alt,12491
+Langeland,2020K1,Ugift,4583
+Langeland,2020K1,Gift/separeret,5313
+Langeland,2020K1,Enke/enkemand,1088
+Langeland,2020K1,Fraskilt,1507
+Middelfart,2020K1,I alt,38853
+Middelfart,2020K1,Ugift,16533
+Middelfart,2020K1,Gift/separeret,16254
+Middelfart,2020K1,Enke/enkemand,2257
+Middelfart,2020K1,Fraskilt,3809
+Nordfyns,2020K1,I alt,29665
+Nordfyns,2020K1,Ugift,12701
+Nordfyns,2020K1,Gift/separeret,12497
+Nordfyns,2020K1,Enke/enkemand,1761
+Nordfyns,2020K1,Fraskilt,2706
+Nyborg,2020K1,I alt,32009
+Nyborg,2020K1,Ugift,13803
+Nyborg,2020K1,Gift/separeret,12893
+Nyborg,2020K1,Enke/enkemand,1978
+Nyborg,2020K1,Fraskilt,3335
+Odense,2020K1,I alt,204895
+Odense,2020K1,Ugift,112490
+Odense,2020K1,Gift/separeret,65362
+Odense,2020K1,Enke/enkemand,9099
+Odense,2020K1,Fraskilt,17944
+Svendborg,2020K1,I alt,58296
+Svendborg,2020K1,Ugift,26178
+Svendborg,2020K1,Gift/separeret,22518
+Svendborg,2020K1,Enke/enkemand,3438
+Svendborg,2020K1,Fraskilt,6162
+Ringkøbing-Skjern,2020K1,I alt,56594
+Ringkøbing-Skjern,2020K1,Ugift,24254
+Ringkøbing-Skjern,2020K1,Gift/separeret,24588
+Ringkøbing-Skjern,2020K1,Enke/enkemand,3322
+Ringkøbing-Skjern,2020K1,Fraskilt,4430
+Lemvig,2020K1,I alt,19722
+Lemvig,2020K1,Ugift,7900
+Lemvig,2020K1,Gift/separeret,8851
+Lemvig,2020K1,Enke/enkemand,1361
+Lemvig,2020K1,Fraskilt,1610
+Ikast-Brande,2020K1,I alt,41369
+Ikast-Brande,2020K1,Ugift,18551
+Ikast-Brande,2020K1,Gift/separeret,17165
+Ikast-Brande,2020K1,Enke/enkemand,2084
+Ikast-Brande,2020K1,Fraskilt,3569
+Holstebro,2020K1,I alt,58591
+Holstebro,2020K1,Ugift,27357
+Holstebro,2020K1,Gift/separeret,23524
+Holstebro,2020K1,Enke/enkemand,3011
+Holstebro,2020K1,Fraskilt,4699
+Herning,2020K1,I alt,89127
+Herning,2020K1,Ugift,41719
+Herning,2020K1,Gift/separeret,35793
+Herning,2020K1,Enke/enkemand,4469
+Herning,2020K1,Fraskilt,7146
+Aarhus,2020K1,I alt,349983
+Aarhus,2020K1,Ugift,208509
+Aarhus,2020K1,Gift/separeret,102999
+Aarhus,2020K1,Enke/enkemand,11773
+Aarhus,2020K1,Fraskilt,26702
+Syddjurs,2020K1,I alt,42962
+Syddjurs,2020K1,Ugift,17996
+Syddjurs,2020K1,Gift/separeret,18292
+Syddjurs,2020K1,Enke/enkemand,2473
+Syddjurs,2020K1,Fraskilt,4201
+Skanderborg,2020K1,I alt,62678
+Skanderborg,2020K1,Ugift,28692
+Skanderborg,2020K1,Gift/separeret,26605
+Skanderborg,2020K1,Enke/enkemand,2538
+Skanderborg,2020K1,Fraskilt,4843
+Silkeborg,2020K1,I alt,94026
+Silkeborg,2020K1,Ugift,43672
+Silkeborg,2020K1,Gift/separeret,37309
+Silkeborg,2020K1,Enke/enkemand,4444
+Silkeborg,2020K1,Fraskilt,8601
+Samsø,2020K1,I alt,3657
+Samsø,2020K1,Ugift,1281
+Samsø,2020K1,Gift/separeret,1579
+Samsø,2020K1,Enke/enkemand,346
+Samsø,2020K1,Fraskilt,451
+Randers,2020K1,I alt,97805
+Randers,2020K1,Ugift,46936
+Randers,2020K1,Gift/separeret,36066
+Randers,2020K1,Enke/enkemand,5257
+Randers,2020K1,Fraskilt,9546
+Odder,2020K1,I alt,22844
+Odder,2020K1,Ugift,9599
+Odder,2020K1,Gift/separeret,9786
+Odder,2020K1,Enke/enkemand,1285
+Odder,2020K1,Fraskilt,2174
+Norddjurs,2020K1,I alt,37089
+Norddjurs,2020K1,Ugift,16360
+Norddjurs,2020K1,Gift/separeret,14483
+Norddjurs,2020K1,Enke/enkemand,2443
+Norddjurs,2020K1,Fraskilt,3803
+Horsens,2020K1,I alt,90966
+Horsens,2020K1,Ugift,44353
+Horsens,2020K1,Gift/separeret,34031
+Horsens,2020K1,Enke/enkemand,4204
+Horsens,2020K1,Fraskilt,8378
+Hedensted,2020K1,I alt,46722
+Hedensted,2020K1,Ugift,20301
+Hedensted,2020K1,Gift/separeret,19973
+Hedensted,2020K1,Enke/enkemand,2481
+Hedensted,2020K1,Fraskilt,3967
+Favrskov,2020K1,I alt,48397
+Favrskov,2020K1,Ugift,21794
+Favrskov,2020K1,Gift/separeret,20697
+Favrskov,2020K1,Enke/enkemand,2220
+Favrskov,2020K1,Fraskilt,3686
+Aabenraa,2020K1,I alt,58761
+Aabenraa,2020K1,Ugift,25266
+Aabenraa,2020K1,Gift/separeret,24090
+Aabenraa,2020K1,Enke/enkemand,3519
+Aabenraa,2020K1,Fraskilt,5886
+Vejle,2020K1,I alt,115748
+Vejle,2020K1,Ugift,54448
+Vejle,2020K1,Gift/separeret,45409
+Vejle,2020K1,Enke/enkemand,5488
+Vejle,2020K1,Fraskilt,10403
+Vejen,2020K1,I alt,42742
+Vejen,2020K1,Ugift,19285
+Vejen,2020K1,Gift/separeret,17423
+Vejen,2020K1,Enke/enkemand,2411
+Vejen,2020K1,Fraskilt,3623
+Varde,2020K1,I alt,49961
+Varde,2020K1,Ugift,21766
+Varde,2020K1,Gift/separeret,21306
+Varde,2020K1,Enke/enkemand,2888
+Varde,2020K1,Fraskilt,4001
+Tønder,2020K1,I alt,37366
+Tønder,2020K1,Ugift,15874
+Tønder,2020K1,Gift/separeret,15577
+Tønder,2020K1,Enke/enkemand,2379
+Tønder,2020K1,Fraskilt,3536
+Sønderborg,2020K1,I alt,74220
+Sønderborg,2020K1,Ugift,32107
+Sønderborg,2020K1,Gift/separeret,30473
+Sønderborg,2020K1,Enke/enkemand,4621
+Sønderborg,2020K1,Fraskilt,7019
+Kolding,2020K1,I alt,93175
+Kolding,2020K1,Ugift,44898
+Kolding,2020K1,Gift/separeret,35262
+Kolding,2020K1,Enke/enkemand,4414
+Kolding,2020K1,Fraskilt,8601
+Haderslev,2020K1,I alt,55670
+Haderslev,2020K1,Ugift,24806
+Haderslev,2020K1,Gift/separeret,22074
+Haderslev,2020K1,Enke/enkemand,3328
+Haderslev,2020K1,Fraskilt,5462
+Fredericia,2020K1,I alt,51377
+Fredericia,2020K1,Ugift,23719
+Fredericia,2020K1,Gift/separeret,19514
+Fredericia,2020K1,Enke/enkemand,2703
+Fredericia,2020K1,Fraskilt,5441
+Fanø,2020K1,I alt,3488
+Fanø,2020K1,Ugift,1258
+Fanø,2020K1,Gift/separeret,1563
+Fanø,2020K1,Enke/enkemand,265
+Fanø,2020K1,Fraskilt,402
+Esbjerg,2020K1,I alt,115483
+Esbjerg,2020K1,Ugift,55014
+Esbjerg,2020K1,Gift/separeret,43670
+Esbjerg,2020K1,Enke/enkemand,5911
+Esbjerg,2020K1,Fraskilt,10888
+Billund,2020K1,I alt,26608
+Billund,2020K1,Ugift,11719
+Billund,2020K1,Gift/separeret,11166
+Billund,2020K1,Enke/enkemand,1512
+Billund,2020K1,Fraskilt,2211
+Ærø,2020K1,I alt,5964
+Ærø,2020K1,Ugift,2174
+Ærø,2020K1,Gift/separeret,2569
+Ærø,2020K1,Enke/enkemand,555
+Ærø,2020K1,Fraskilt,666
+Skive,2020K1,I alt,45851
+Skive,2020K1,Ugift,20222
+Skive,2020K1,Gift/separeret,18698
+Skive,2020K1,Enke/enkemand,2804
+Skive,2020K1,Fraskilt,4127
+Struer,2020K1,I alt,21036
+Struer,2020K1,Ugift,8562
+Struer,2020K1,Gift/separeret,9138
+Struer,2020K1,Enke/enkemand,1358
+Struer,2020K1,Fraskilt,1978
+Viborg,2020K1,I alt,96921
+Viborg,2020K1,Ugift,45370
+Viborg,2020K1,Gift/separeret,38098
+Viborg,2020K1,Enke/enkemand,4921
+Viborg,2020K1,Fraskilt,8532
+Brønderslev,2020K1,I alt,36304
+Brønderslev,2020K1,Ugift,16246
+Brønderslev,2020K1,Gift/separeret,14815
+Brønderslev,2020K1,Enke/enkemand,2147
+Brønderslev,2020K1,Fraskilt,3096
+Frederikshavn,2020K1,I alt,59654
+Frederikshavn,2020K1,Ugift,24767
+Frederikshavn,2020K1,Gift/separeret,24782
+Frederikshavn,2020K1,Enke/enkemand,4219
+Frederikshavn,2020K1,Fraskilt,5886
+Hjørring,2020K1,I alt,64483
+Hjørring,2020K1,Ugift,28574
+Hjørring,2020K1,Gift/separeret,25841
+Hjørring,2020K1,Enke/enkemand,3929
+Hjørring,2020K1,Fraskilt,6139
+Jammerbugt,2020K1,I alt,38324
+Jammerbugt,2020K1,Ugift,16286
+Jammerbugt,2020K1,Gift/separeret,16434
+Jammerbugt,2020K1,Enke/enkemand,2376
+Jammerbugt,2020K1,Fraskilt,3228
+Læsø,2020K1,I alt,1786
+Læsø,2020K1,Ugift,593
+Læsø,2020K1,Gift/separeret,782
+Læsø,2020K1,Enke/enkemand,192
+Læsø,2020K1,Fraskilt,219
+Mariagerfjord,2020K1,I alt,41800
+Mariagerfjord,2020K1,Ugift,18168
+Mariagerfjord,2020K1,Gift/separeret,17233
+Mariagerfjord,2020K1,Enke/enkemand,2506
+Mariagerfjord,2020K1,Fraskilt,3893
+Morsø,2020K1,I alt,20247
+Morsø,2020K1,Ugift,8740
+Morsø,2020K1,Gift/separeret,8202
+Morsø,2020K1,Enke/enkemand,1437
+Morsø,2020K1,Fraskilt,1868
+Rebild,2020K1,I alt,30113
+Rebild,2020K1,Ugift,13553
+Rebild,2020K1,Gift/separeret,12723
+Rebild,2020K1,Enke/enkemand,1512
+Rebild,2020K1,Fraskilt,2325
+Thisted,2020K1,I alt,43423
+Thisted,2020K1,Ugift,18696
+Thisted,2020K1,Gift/separeret,18176
+Thisted,2020K1,Enke/enkemand,2851
+Thisted,2020K1,Fraskilt,3700
+Vesthimmerlands,2020K1,I alt,36727
+Vesthimmerlands,2020K1,Ugift,16172
+Vesthimmerlands,2020K1,Gift/separeret,14861
+Vesthimmerlands,2020K1,Enke/enkemand,2346
+Vesthimmerlands,2020K1,Fraskilt,3348
+Aalborg,2020K1,I alt,217075
+Aalborg,2020K1,Ugift,118194
+Aalborg,2020K1,Gift/separeret,71412
+Aalborg,2020K1,Enke/enkemand,9820
+Aalborg,2020K1,Fraskilt,17649
